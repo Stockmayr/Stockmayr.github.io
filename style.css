@@ -1,0 +1,25 @@
+body{
+background-image: url("./Pic/background.jpg");
+
+}
+h1 {
+    font-size: 3vw;
+    text-align: center;
+    color: white;
+}
+
+form {
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.output{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+color: white;
+}
